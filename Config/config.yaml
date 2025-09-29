@@ -1,0 +1,7 @@
+path: D:\Data
+train: images\Train
+val: images\Train
+
+# Index and add more objects if needed
+names:
+  0: Bottle
